@@ -27,8 +27,15 @@ The Feature Selection (FS) and Adjusted Rand Index (ARI) computation code is giv
 
 ## Pre-requisites
 > R version  4.0.2
-> Python 3.7
-> Python packages: sklearn-0.19.2, multiprocessing, tensorflow
+
+
 > R packages: SingleCellExperiment, scDataset.
+
+
+> Python 3.7
+
+
+> Python packages: sklearn-0.19.2, multiprocessing, tensorflow
+
 
 
